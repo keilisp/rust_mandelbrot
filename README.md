@@ -21,8 +21,10 @@ cargo build
 
 # Usage
 
+```sh
 Usage:
 target/debug/maldebrot FILE PIXELS UPPERLEFT LOWERRIGHT
 
 Example:
 target/debug/maldebrot mndel.png 1000x750 -1.20,0.35 -1,0.20
+```
